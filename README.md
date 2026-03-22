@@ -1,4 +1,4 @@
-# C-Lock-free-transactional-KV-Engine
+# C++-Lock-free-transactional-KV-Engine
 NOTE : Iam working on C++ to replace datasets which use standard mutexes and lack performance. I am working on the atomic T to fix this. Iam first learning Adv. DSA to make this project huge.
 
 
